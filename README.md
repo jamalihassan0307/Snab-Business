@@ -231,6 +231,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by the Snab Business Team using Flutter and Firebase
+  Made with ❤️ by the 7 Skies solution Team using Flutter , APIS and Firebase
 </p>
 
